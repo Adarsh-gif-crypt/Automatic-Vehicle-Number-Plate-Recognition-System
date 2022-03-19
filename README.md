@@ -6,7 +6,7 @@ and store that into Web3 Storage which is a decentralised storage built on block
 - Secure
 - Unmanipualtive
 - Resistant to breach
-- Immunie to Cyber Attacs
+- Immunie to Cyber Attacks
 - Untraceable
 - High Speed
 
