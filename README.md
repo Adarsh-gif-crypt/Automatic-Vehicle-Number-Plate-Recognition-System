@@ -24,3 +24,6 @@ After that, type in <br>
 `streamlit run detect_save2.py`<br>
 To run the webapp.<br>
 <b> Instructions to use can be found after opening the webapp </b>
+
+
+#### Made by Team Greninja
