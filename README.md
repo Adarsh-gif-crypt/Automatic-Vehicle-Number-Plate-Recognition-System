@@ -10,7 +10,7 @@ and store that into Web3 Storage which is a decentralised storage built on block
 - Untraceable
 - High Speed
 
-To get started, make sure you have Python version<=3.9 installed <br>
+To get started, make sure you have Python version<=3.9 installed .<br>
 
 Make a Python Virtual Environment <br>
 `python -m venv VIRTUAL_ENV_NAME`<br>
