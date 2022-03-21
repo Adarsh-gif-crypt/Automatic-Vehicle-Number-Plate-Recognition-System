@@ -1,0 +1,9 @@
+# path to images relative to root
+train: ./images/train
+val : ./images/val
+
+# number of classes
+nc: 1
+
+# name of classes
+names: ['lisence_plate']
