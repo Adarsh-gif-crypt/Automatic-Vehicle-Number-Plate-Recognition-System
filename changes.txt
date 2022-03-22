@@ -1,0 +1,6 @@
+->changed 'save_dir' to prevent file gettin gcreated for every run     (detect.py)
+->changed line 96 to preven labels from being drawn                    (utils/plots.py)
+->changed line 231 to display correct foldername from{save_dir}        (detect.py)
+->added count                                                          (detect.py)
+->added 184-194 to print cropped images and save them                  (detect.py)
+->changed line 97 to remove drawing bounding boxes                     (utils/plots.py)

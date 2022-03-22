@@ -1,0 +1,5 @@
+Collecting torch
+  Using cached torch-1.11.0-cp310-cp310-win_amd64.whl (158.0 MB)
+Requirement already satisfied: typing-extensions in d:\ds\lisence_plate\final\lib\site-packages (from torch) (4.1.1)
+Installing collected packages: torch
+Successfully installed torch-1.11.0
