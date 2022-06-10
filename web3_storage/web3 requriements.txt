@@ -1,0 +1,18 @@
+node js v16.14.1
+npm v8.5.4
+
+Create an account in https://web3.storage/login/
+Create an API token in the website
+
+In VSC,
+Create put-files.js
+
+Run this in terminal
+node put-files.js --token=<YOUR_API_TOKEN> ~/filename1 ~/filename2
+
+you will get CID in terminal 
+https://dweb.link/ipfs/YOUR_CID
+https://ipfs.io/ipfs/YOUR_CID
+
+
+REFERENCE:--https://docs.web3.storage/
