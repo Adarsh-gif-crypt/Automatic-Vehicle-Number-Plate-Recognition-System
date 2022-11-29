@@ -1,5 +1,5 @@
 ### Automatic-Vehicle-Number-Plate-Recognition-System
-A comprehensive and well made Automatic Number Plate <br>recognition System with Web3 (Blockchain) Integration
+A comprehensive and well made Automatic Number Plate <br>recognition System with Web3 Storage
 Made with YOLOv5 and Web3 Storage <br> This solution can extract any moving vehicle's number plate (Indian and International) <br>
 and store that into Web3 Storage which is a decentralised storage built on blockchain <br>
 - Safe
